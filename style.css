@@ -26,5 +26,15 @@ padding-top: 35px;
 padding-bottom: 35px;
 text-align: center;
 width: 400px;
+border: 2px;
+border-color: solid red;
 
+}
+
+footer {
+    width: 400px;
+    background-color: red;
+    height: 35px;
+    border-radius: 0px 0px 20px 20px;
+    
 }
